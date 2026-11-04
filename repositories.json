@@ -1,0 +1,197 @@
+[
+  {
+    "name": "photocraft",
+    "upstream": "storytold/photocraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "vectorcraft",
+    "upstream": "storytold/vectorcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "filmcraft",
+    "upstream": "storytold/filmcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "lightcraft",
+    "upstream": "storytold/lightcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "pdfcraft",
+    "upstream": "storytold/pdfcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "effectcraft",
+    "upstream": "storytold/effectcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "designcraft",
+    "upstream": "storytold/designcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "figcraft",
+    "upstream": "storytold/figcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "texturecraft",
+    "upstream": "storytold/texturecraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "materialcraft",
+    "upstream": "storytold/materialcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "wordcraft",
+    "upstream": "storytold/wordcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "soundcraft",
+    "upstream": "storytold/soundcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "deckcraft",
+    "upstream": "storytold/deckcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "cadcraft",
+    "upstream": "storytold/cadcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "gridcraft",
+    "upstream": "storytold/gridcraft",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "craft-anything",
+    "upstream": "storytold/craft-anything",
+    "reason": "Crafting application"
+  },
+  {
+    "name": "artcraft",
+    "upstream": "storytold/artcraft",
+    "reason": "ArtCraft Studio and services"
+  },
+  {
+    "name": "artcraft-services",
+    "upstream": "storytold/artcraft-services",
+    "reason": "ArtCraft Studio and services"
+  },
+  {
+    "name": "artcraftx",
+    "upstream": "storytold/artcraftx",
+    "reason": "ArtCraft Studio and services"
+  },
+  {
+    "name": "craft-launcher",
+    "upstream": "storytold/craft-launcher",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-launcher-assets",
+    "upstream": "storytold/craft-launcher-assets",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-fonts",
+    "upstream": "storytold/craft-fonts",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-libs",
+    "upstream": "storytold/craft-libs",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-ai-integrations",
+    "upstream": "storytold/craft-ai-integrations",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-common-actions",
+    "upstream": "storytold/craft-common-actions",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-extensions",
+    "upstream": "storytold/craft-extensions",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-i18n",
+    "upstream": "storytold/craft-i18n",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-contrib",
+    "upstream": "storytold/craft-contrib",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-skills",
+    "upstream": "storytold/craft-skills",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-repo-status-app",
+    "upstream": "storytold/craft-repo-status-app",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "craft-pr-review-tool",
+    "upstream": "storytold/craft-pr-review-tool",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "photocraft-corpus",
+    "upstream": "storytold/photocraft-corpus",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "effectcraft-corpus",
+    "upstream": "storytold/effectcraft-corpus",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "cadcraft-corpus",
+    "upstream": "storytold/cadcraft-corpus",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "indd-utils",
+    "upstream": "storytold/indd-utils",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "font-preview-service",
+    "upstream": "storytold/font-preview-service",
+    "reason": "Shared Crafting Apps dependency, assets, tests, or development tooling"
+  },
+  {
+    "name": "egui",
+    "upstream": "storytold/egui",
+    "reason": "Storytold-maintained GUI/printing dependency"
+  },
+  {
+    "name": "winit",
+    "upstream": "storytold/winit",
+    "reason": "Storytold-maintained GUI/printing dependency"
+  },
+  {
+    "name": "winprint.rs",
+    "upstream": "storytold/winprint.rs",
+    "reason": "Storytold-maintained GUI/printing dependency"
+  }
+]

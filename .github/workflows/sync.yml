@@ -1,0 +1,52 @@
+name: Preserve upstream source
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: upstream-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: github.repository == 'sourceharbor/archive-sync' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Preserve branches and tags
+        env:
+          SYNC_DEPLOY_KEYS: ${{ secrets.SYNC_DEPLOY_KEYS }}
+        run: |
+          rm -f status.json
+          python3 sync.py
+      - name: Record sync status
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import base64, json, pathlib, subprocess
+          path = pathlib.Path('status.json')
+          if not path.exists():
+              raise SystemExit('No status produced; inspect failed sync step')
+          endpoint = 'repos/sourceharbor/archive-sync/contents/status.json'
+          previous = subprocess.run(['gh', 'api', endpoint], capture_output=True, text=True)
+          payload = {
+              'message': 'Record upstream preservation check',
+              'content': base64.b64encode(path.read_bytes()).decode(),
+              'branch': 'main',
+          }
+          if previous.returncode == 0:
+              payload['sha'] = json.loads(previous.stdout)['sha']
+          elif 'HTTP 404' not in previous.stderr:
+              raise SystemExit('Unable to read previous status')
+          result = subprocess.run(['gh', 'api', '--method', 'PUT', endpoint, '--input', '-'],
+                                  input=json.dumps(payload), capture_output=True, text=True)
+          if result.returncode:
+              raise SystemExit('Unable to record status; inspect repository access')
+          PY
