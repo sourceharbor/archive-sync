@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T06:56:44.583799+00:00",
+  "checked_at": "2026-11-06T19:28:56.557428+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -16,8 +16,9 @@
     {
       "name": "filmcraft",
       "upstream": "storytold/filmcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 5,
+      "upstream_refs": 91
     },
     {
       "name": "lightcraft",
@@ -29,49 +30,49 @@
       "name": "pdfcraft",
       "upstream": "storytold/pdfcraft",
       "state": "updated",
-      "updated_refs": 4,
-      "upstream_refs": 166
+      "updated_refs": 3,
+      "upstream_refs": 167
     },
     {
       "name": "effectcraft",
       "upstream": "storytold/effectcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 6,
+      "upstream_refs": 204
     },
     {
       "name": "designcraft",
       "upstream": "storytold/designcraft",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 83
+      "updated_refs": 2,
+      "upstream_refs": 84
     },
     {
       "name": "figcraft",
       "upstream": "storytold/figcraft",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 136
+      "updated_refs": 2,
+      "upstream_refs": 137
     },
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 93
+      "updated_refs": 2,
+      "upstream_refs": 94
     },
     {
       "name": "materialcraft",
       "upstream": "storytold/materialcraft",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 18
+      "updated_refs": 2,
+      "upstream_refs": 19
     },
     {
       "name": "wordcraft",
       "upstream": "storytold/wordcraft",
-      "state": "updated",
-      "updated_refs": 4,
-      "upstream_refs": 93
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "soundcraft",
@@ -94,16 +95,15 @@
     {
       "name": "gridcraft",
       "upstream": "storytold/gridcraft",
-      "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 79
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 154
+      "updated_refs": 24,
+      "upstream_refs": 176
     },
     {
       "name": "artcraft",
@@ -115,8 +115,8 @@
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
       "state": "updated",
-      "updated_refs": 2,
-      "upstream_refs": 166
+      "updated_refs": 3,
+      "upstream_refs": 168
     },
     {
       "name": "artcraftx",
@@ -155,15 +155,15 @@
       "name": "craft-ai-integrations",
       "upstream": "storytold/craft-ai-integrations",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 9
+      "updated_refs": 2,
+      "upstream_refs": 10
     },
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
       "state": "updated",
-      "updated_refs": 2,
-      "upstream_refs": 42
+      "updated_refs": 5,
+      "upstream_refs": 46
     },
     {
       "name": "craft-extensions",
@@ -182,9 +182,9 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 1
+      "state": "updated",
+      "updated_refs": 8,
+      "upstream_refs": 8
     },
     {
       "name": "craft-skills",
@@ -238,9 +238,9 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 2
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 3
     },
     {
       "name": "egui",
