@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T20:02:20.112517+00:00",
+  "checked_at": "2026-11-06T06:56:44.583799+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -28,8 +28,9 @@
     {
       "name": "pdfcraft",
       "upstream": "storytold/pdfcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 4,
+      "upstream_refs": 166
     },
     {
       "name": "effectcraft",
@@ -48,29 +49,29 @@
       "name": "figcraft",
       "upstream": "storytold/figcraft",
       "state": "updated",
-      "updated_refs": 2,
+      "updated_refs": 1,
       "upstream_refs": 136
     },
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
       "state": "updated",
-      "updated_refs": 2,
+      "updated_refs": 1,
       "upstream_refs": 93
     },
     {
       "name": "materialcraft",
       "upstream": "storytold/materialcraft",
       "state": "updated",
-      "updated_refs": 6,
-      "upstream_refs": 17
+      "updated_refs": 3,
+      "upstream_refs": 18
     },
     {
       "name": "wordcraft",
       "upstream": "storytold/wordcraft",
       "state": "updated",
-      "updated_refs": 10,
-      "upstream_refs": 94
+      "updated_refs": 4,
+      "upstream_refs": 93
     },
     {
       "name": "soundcraft",
@@ -94,15 +95,15 @@
       "name": "gridcraft",
       "upstream": "storytold/gridcraft",
       "state": "updated",
-      "updated_refs": 4,
+      "updated_refs": 1,
       "upstream_refs": 79
     },
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 2,
-      "upstream_refs": 152
+      "updated_refs": 3,
+      "upstream_refs": 154
     },
     {
       "name": "artcraft",
@@ -113,9 +114,9 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 165
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 166
     },
     {
       "name": "artcraftx",
@@ -161,8 +162,8 @@
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 41
+      "updated_refs": 2,
+      "upstream_refs": 42
     },
     {
       "name": "craft-extensions",
@@ -237,8 +238,8 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 2
     },
     {
