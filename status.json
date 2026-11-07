@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T06:08:06.211631+00:00",
+  "checked_at": "2026-11-07T13:13:30.676320+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -16,8 +16,8 @@
     {
       "name": "filmcraft",
       "upstream": "storytold/filmcraft",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 92
     },
     {
@@ -29,43 +29,43 @@
     {
       "name": "pdfcraft",
       "upstream": "storytold/pdfcraft",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 168
     },
     {
       "name": "effectcraft",
       "upstream": "storytold/effectcraft",
-      "state": "updated",
-      "updated_refs": 3,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 204
     },
     {
       "name": "designcraft",
       "upstream": "storytold/designcraft",
       "state": "updated",
-      "updated_refs": 3,
+      "updated_refs": 1,
       "upstream_refs": 85
     },
     {
       "name": "figcraft",
       "upstream": "storytold/figcraft",
-      "state": "updated",
-      "updated_refs": 9,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 144
     },
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
       "state": "updated",
-      "updated_refs": 2,
+      "updated_refs": 1,
       "upstream_refs": 95
     },
     {
       "name": "materialcraft",
       "upstream": "storytold/materialcraft",
       "state": "updated",
-      "updated_refs": 5,
+      "updated_refs": 2,
       "upstream_refs": 21
     },
     {
@@ -102,21 +102,21 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 13,
-      "upstream_refs": 186
+      "updated_refs": 5,
+      "upstream_refs": 190
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "updated",
-      "updated_refs": 5,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1341
     },
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 168
     },
     {
@@ -161,8 +161,8 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "updated",
-      "updated_refs": 6,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 51
     },
     {
