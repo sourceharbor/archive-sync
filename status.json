@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T13:13:30.676320+00:00",
+  "checked_at": "2026-11-07T21:56:46.610624+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -16,9 +16,8 @@
     {
       "name": "filmcraft",
       "upstream": "storytold/filmcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 92
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "lightcraft",
@@ -29,8 +28,8 @@
     {
       "name": "pdfcraft",
       "upstream": "storytold/pdfcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 168
     },
     {
@@ -57,8 +56,8 @@
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 95
     },
     {
@@ -89,8 +88,9 @@
     {
       "name": "cadcraft",
       "upstream": "storytold/cadcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 5,
+      "upstream_refs": 79
     },
     {
       "name": "gridcraft",
@@ -102,8 +102,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 5,
-      "upstream_refs": 190
+      "updated_refs": 4,
+      "upstream_refs": 193
     },
     {
       "name": "artcraft",
@@ -115,9 +115,9 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 168
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 169
     },
     {
       "name": "artcraftx",
@@ -161,8 +161,8 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 51
     },
     {
@@ -238,9 +238,9 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 3
+      "state": "updated",
+      "updated_refs": 1,
+      "upstream_refs": 2
     },
     {
       "name": "egui",
