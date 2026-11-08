@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T21:56:46.610624+00:00",
+  "checked_at": "2026-11-08T06:12:51.701702+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -28,22 +28,20 @@
     {
       "name": "pdfcraft",
       "upstream": "storytold/pdfcraft",
-      "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 168
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "effectcraft",
       "upstream": "storytold/effectcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 204
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "designcraft",
       "upstream": "storytold/designcraft",
       "state": "updated",
-      "updated_refs": 1,
+      "updated_refs": 2,
       "upstream_refs": 85
     },
     {
@@ -56,8 +54,8 @@
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 95
     },
     {
@@ -89,7 +87,7 @@
       "name": "cadcraft",
       "upstream": "storytold/cadcraft",
       "state": "updated",
-      "updated_refs": 5,
+      "updated_refs": 1,
       "upstream_refs": 79
     },
     {
@@ -102,7 +100,7 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 4,
+      "updated_refs": 1,
       "upstream_refs": 193
     },
     {
@@ -115,8 +113,8 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 169
     },
     {
@@ -175,16 +173,16 @@
     {
       "name": "craft-i18n",
       "upstream": "storytold/craft-i18n",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 20
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 22
     },
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 8
+      "state": "updated",
+      "updated_refs": 3,
+      "upstream_refs": 11
     },
     {
       "name": "craft-skills",
