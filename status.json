@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T13:34:45.330471+00:00",
+  "checked_at": "2026-11-08T22:13:39.251799+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -47,22 +47,22 @@
     {
       "name": "figcraft",
       "upstream": "storytold/figcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 144
     },
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
-      "state": "updated",
-      "updated_refs": 3,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 97
     },
     {
       "name": "materialcraft",
       "upstream": "storytold/materialcraft",
       "state": "updated",
-      "updated_refs": 3,
+      "updated_refs": 1,
       "upstream_refs": 23
     },
     {
@@ -86,9 +86,8 @@
     {
       "name": "cadcraft",
       "upstream": "storytold/cadcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 79
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "gridcraft",
@@ -99,9 +98,9 @@
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 193
+      "state": "updated",
+      "updated_refs": 6,
+      "upstream_refs": 198
     },
     {
       "name": "artcraft",
@@ -113,8 +112,8 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 14,
       "upstream_refs": 169
     },
     {
@@ -153,16 +152,15 @@
     {
       "name": "craft-ai-integrations",
       "upstream": "storytold/craft-ai-integrations",
-      "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 9
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
       "state": "updated",
       "updated_refs": 1,
-      "upstream_refs": 51
+      "upstream_refs": 52
     },
     {
       "name": "craft-extensions",
@@ -176,7 +174,7 @@
       "upstream": "storytold/craft-i18n",
       "state": "updated",
       "updated_refs": 3,
-      "upstream_refs": 23
+      "upstream_refs": 24
     },
     {
       "name": "craft-contrib",
@@ -258,8 +256,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 5
     }
   ]
