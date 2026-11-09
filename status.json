@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T22:13:39.251799+00:00",
+  "checked_at": "2026-11-09T06:46:30.775477+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -41,28 +41,28 @@
       "name": "designcraft",
       "upstream": "storytold/designcraft",
       "state": "updated",
-      "updated_refs": 1,
+      "updated_refs": 2,
       "upstream_refs": 85
     },
     {
       "name": "figcraft",
       "upstream": "storytold/figcraft",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 144
+      "updated_refs": 3,
+      "upstream_refs": 145
     },
     {
       "name": "texturecraft",
       "upstream": "storytold/texturecraft",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 2,
       "upstream_refs": 97
     },
     {
       "name": "materialcraft",
       "upstream": "storytold/materialcraft",
       "state": "updated",
-      "updated_refs": 1,
+      "updated_refs": 3,
       "upstream_refs": 23
     },
     {
@@ -74,8 +74,9 @@
     {
       "name": "soundcraft",
       "upstream": "storytold/soundcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 6,
+      "upstream_refs": 55
     },
     {
       "name": "deckcraft",
@@ -99,21 +100,21 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 6,
-      "upstream_refs": 198
+      "updated_refs": 2,
+      "upstream_refs": 199
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 1341
     },
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
       "state": "updated",
-      "updated_refs": 14,
+      "updated_refs": 1,
       "upstream_refs": 169
     },
     {
@@ -179,8 +180,8 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 11
     },
     {
@@ -235,15 +236,15 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 2
     },
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 3
     },
     {
@@ -256,8 +257,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 5
     }
   ]
