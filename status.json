@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T07:26:44.069339+00:00",
+  "checked_at": "2026-11-10T19:49:12.948027+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,22 +95,21 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 5,
-      "upstream_refs": 216
+      "updated_refs": 11,
+      "upstream_refs": 225
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 1342
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 173
+      "state": "updated",
+      "updated_refs": 7,
+      "upstream_refs": 179
     },
     {
       "name": "artcraftx",
@@ -142,8 +141,9 @@
     {
       "name": "craft-libs",
       "upstream": "storytold/craft-libs",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 8,
+      "upstream_refs": 52
     },
     {
       "name": "craft-ai-integrations",
@@ -154,15 +154,15 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 53
+      "state": "updated",
+      "updated_refs": 5,
+      "upstream_refs": 57
     },
     {
       "name": "craft-extensions",
       "upstream": "storytold/craft-extensions",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 3
     },
     {
@@ -175,8 +175,8 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 3,
       "upstream_refs": 12
     },
     {
