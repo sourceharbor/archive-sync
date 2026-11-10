@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T22:28:13.591568+00:00",
+  "checked_at": "2026-11-10T07:26:44.069339+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,21 +95,21 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 15,
-      "upstream_refs": 212
+      "updated_refs": 5,
+      "upstream_refs": 216
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "updated",
-      "updated_refs": 3,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1342
     },
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "updated",
-      "updated_refs": 5,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 173
     },
     {
@@ -154,8 +154,8 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 53
     },
     {
@@ -168,15 +168,15 @@
     {
       "name": "craft-i18n",
       "upstream": "storytold/craft-i18n",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 26
     },
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 12
     },
     {
@@ -231,8 +231,8 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 3
     },
     {
@@ -252,8 +252,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 5
     }
   ]
