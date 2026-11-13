@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T06:53:03.816426+00:00",
+  "checked_at": "2026-11-13T19:48:38.529030+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -76,9 +76,8 @@
     {
       "name": "deckcraft",
       "upstream": "storytold/deckcraft",
-      "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 131
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "cadcraft",
@@ -95,8 +94,8 @@
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 239
     },
     {
@@ -141,9 +140,8 @@
     {
       "name": "craft-libs",
       "upstream": "storytold/craft-libs",
-      "state": "updated",
-      "updated_refs": 11,
-      "upstream_refs": 337
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "craft-ai-integrations",
@@ -155,8 +153,8 @@
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 67
+      "updated_refs": 7,
+      "upstream_refs": 70
     },
     {
       "name": "craft-extensions",
