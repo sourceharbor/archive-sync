@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T18:13:28.912415+00:00",
+  "checked_at": "2026-11-14T22:31:10.470011+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,8 +95,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 242
+      "updated_refs": 5,
+      "upstream_refs": 246
     },
     {
       "name": "artcraft",
@@ -107,9 +107,9 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 193
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 195
     },
     {
       "name": "artcraftx",
@@ -140,9 +140,8 @@
     {
       "name": "craft-libs",
       "upstream": "storytold/craft-libs",
-      "state": "updated",
-      "updated_refs": 21,
-      "upstream_refs": 393
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "craft-ai-integrations",
@@ -153,9 +152,9 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 71
+      "state": "updated",
+      "updated_refs": 3,
+      "upstream_refs": 72
     },
     {
       "name": "craft-extensions",
@@ -173,8 +172,8 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 4,
       "upstream_refs": 14
     },
     {
@@ -229,8 +228,8 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 2,
       "upstream_refs": 4
     },
     {
