@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T06:36:11.273095+00:00",
+  "checked_at": "2026-11-14T18:13:28.912415+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,8 +95,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 2,
-      "upstream_refs": 240
+      "updated_refs": 3,
+      "upstream_refs": 242
     },
     {
       "name": "artcraft",
@@ -141,8 +141,8 @@
       "name": "craft-libs",
       "upstream": "storytold/craft-libs",
       "state": "updated",
-      "updated_refs": 48,
-      "upstream_refs": 378
+      "updated_refs": 21,
+      "upstream_refs": 393
     },
     {
       "name": "craft-ai-integrations",
@@ -153,8 +153,8 @@
     {
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
-      "state": "updated",
-      "updated_refs": 3,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 71
     },
     {
@@ -236,8 +236,8 @@
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 8
     },
     {
