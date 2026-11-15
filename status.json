@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T06:44:19.659805+00:00",
+  "checked_at": "2026-11-15T18:55:46.501318+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -96,7 +96,7 @@
       "upstream": "storytold/craft-anything",
       "state": "updated",
       "updated_refs": 2,
-      "upstream_refs": 247
+      "upstream_refs": 248
     },
     {
       "name": "artcraft",
@@ -153,8 +153,8 @@
       "name": "craft-common-actions",
       "upstream": "storytold/craft-common-actions",
       "state": "updated",
-      "updated_refs": 9,
-      "upstream_refs": 80
+      "updated_refs": 5,
+      "upstream_refs": 84
     },
     {
       "name": "craft-extensions",
@@ -172,9 +172,9 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 14
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 15
     },
     {
       "name": "craft-skills",
@@ -236,7 +236,7 @@
       "name": "egui",
       "upstream": "storytold/egui",
       "state": "updated",
-      "updated_refs": 2,
+      "updated_refs": 1,
       "upstream_refs": 9
     },
     {
@@ -249,8 +249,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 8
     }
   ]
