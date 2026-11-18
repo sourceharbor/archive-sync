@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T07:38:30.076959+00:00",
+  "checked_at": "2026-11-18T20:38:31.381658+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,15 +95,14 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 3,
-      "upstream_refs": 268
+      "updated_refs": 6,
+      "upstream_refs": 270
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 1356
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "artcraft-services",
@@ -228,8 +227,8 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 4
     },
     {
@@ -249,8 +248,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 8
     }
   ]
