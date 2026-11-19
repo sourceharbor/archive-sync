@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T07:34:00.809556+00:00",
+  "checked_at": "2026-11-19T20:44:22.167333+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -76,8 +76,8 @@
     {
       "name": "deckcraft",
       "upstream": "storytold/deckcraft",
-      "state": "updated",
-      "updated_refs": 19,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 144
     },
     {
@@ -97,7 +97,7 @@
       "upstream": "storytold/craft-anything",
       "state": "updated",
       "updated_refs": 3,
-      "upstream_refs": 272
+      "upstream_refs": 274
     },
     {
       "name": "artcraft",
@@ -235,8 +235,8 @@
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 9
     },
     {
