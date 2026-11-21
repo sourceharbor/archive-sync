@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-21T07:19:12.929951+00:00",
+  "checked_at": "2026-11-21T19:23:32.610926+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -94,8 +94,8 @@
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 281
     },
     {
@@ -248,8 +248,8 @@
     {
       "name": "winprint.rs",
       "upstream": "storytold/winprint.rs",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 8
     }
   ]
