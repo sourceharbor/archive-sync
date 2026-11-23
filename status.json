@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T19:47:06.770763+00:00",
+  "checked_at": "2026-11-23T07:49:27.015628+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,8 +95,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 282
+      "updated_refs": 4,
+      "upstream_refs": 285
     },
     {
       "name": "artcraft",
@@ -107,9 +107,9 @@
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 195
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 196
     },
     {
       "name": "artcraftx",
@@ -171,8 +171,8 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 16
     },
     {
