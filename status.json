@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T10:00:29.218879+00:00",
+  "checked_at": "2026-11-24T22:32:15.951177+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -96,20 +96,21 @@
       "upstream": "storytold/craft-anything",
       "state": "updated",
       "updated_refs": 2,
-      "upstream_refs": 286
+      "upstream_refs": 287
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "failed",
-      "error": "upstream branch diverged; destination preserved"
+      "state": "updated",
+      "updated_refs": 5,
+      "upstream_refs": 1359
     },
     {
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
       "state": "updated",
       "updated_refs": 1,
-      "upstream_refs": 197
+      "upstream_refs": 196
     },
     {
       "name": "artcraftx",
@@ -127,8 +128,8 @@
     {
       "name": "craft-launcher-assets",
       "upstream": "storytold/craft-launcher-assets",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 2
     },
     {
@@ -171,9 +172,8 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 18
+      "state": "failed",
+      "error": "upstream branch diverged; destination preserved"
     },
     {
       "name": "craft-skills",
@@ -206,36 +206,36 @@
     {
       "name": "effectcraft-corpus",
       "upstream": "storytold/effectcraft-corpus",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 1
     },
     {
       "name": "cadcraft-corpus",
       "upstream": "storytold/cadcraft-corpus",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 1
     },
     {
       "name": "indd-utils",
       "upstream": "storytold/indd-utils",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 1
     },
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 4
     },
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 10
     },
     {
