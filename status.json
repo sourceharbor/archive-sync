@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T07:49:27.015628+00:00",
+  "checked_at": "2026-11-23T23:59:03.579880+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,7 +95,7 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 4,
+      "updated_refs": 1,
       "upstream_refs": 285
     },
     {
@@ -171,9 +171,9 @@
     {
       "name": "craft-contrib",
       "upstream": "storytold/craft-contrib",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 16
+      "state": "updated",
+      "updated_refs": 3,
+      "upstream_refs": 17
     },
     {
       "name": "craft-skills",
