@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T22:32:15.951177+00:00",
+  "checked_at": "2026-11-25T08:44:52.388669+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -94,15 +94,15 @@
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 287
     },
     {
       "name": "artcraft",
       "upstream": "storytold/artcraft",
-      "state": "updated",
-      "updated_refs": 5,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1359
     },
     {
@@ -128,8 +128,8 @@
     {
       "name": "craft-launcher-assets",
       "upstream": "storytold/craft-launcher-assets",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 2
     },
     {
@@ -206,22 +206,22 @@
     {
       "name": "effectcraft-corpus",
       "upstream": "storytold/effectcraft-corpus",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1
     },
     {
       "name": "cadcraft-corpus",
       "upstream": "storytold/cadcraft-corpus",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1
     },
     {
       "name": "indd-utils",
       "upstream": "storytold/indd-utils",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 1
     },
     {
