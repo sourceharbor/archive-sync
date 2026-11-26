@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T08:30:43.811201+00:00",
+  "checked_at": "2026-11-26T21:40:03.638985+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -94,8 +94,8 @@
     {
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 287
     },
     {
@@ -198,9 +198,9 @@
     {
       "name": "photocraft-corpus",
       "upstream": "storytold/photocraft-corpus",
-      "state": "unchanged",
-      "updated_refs": 0,
-      "upstream_refs": 3
+      "state": "updated",
+      "updated_refs": 2,
+      "upstream_refs": 4
     },
     {
       "name": "effectcraft-corpus",
@@ -240,8 +240,8 @@
     {
       "name": "winit",
       "upstream": "storytold/winit",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 131
     },
     {
