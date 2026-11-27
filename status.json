@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T21:40:03.638985+00:00",
+  "checked_at": "2026-11-27T08:44:28.252620+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,8 +95,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 287
+      "updated_refs": 5,
+      "upstream_refs": 291
     },
     {
       "name": "artcraft",
@@ -108,8 +108,8 @@
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 197
+      "updated_refs": 2,
+      "upstream_refs": 198
     },
     {
       "name": "artcraftx",
@@ -198,8 +198,8 @@
     {
       "name": "photocraft-corpus",
       "upstream": "storytold/photocraft-corpus",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 4
     },
     {
@@ -233,15 +233,15 @@
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "unchanged",
-      "updated_refs": 0,
+      "state": "updated",
+      "updated_refs": 1,
       "upstream_refs": 10
     },
     {
       "name": "winit",
       "upstream": "storytold/winit",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 131
     },
     {
