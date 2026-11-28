@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T21:24:25.586818+00:00",
+  "checked_at": "2026-11-28T07:57:44.506331+00:00",
   "repositories": [
     {
       "name": "photocraft",
@@ -95,8 +95,8 @@
       "name": "craft-anything",
       "upstream": "storytold/craft-anything",
       "state": "updated",
-      "updated_refs": 1,
-      "upstream_refs": 291
+      "updated_refs": 3,
+      "upstream_refs": 292
     },
     {
       "name": "artcraft",
@@ -108,8 +108,8 @@
       "name": "artcraft-services",
       "upstream": "storytold/artcraft-services",
       "state": "updated",
-      "updated_refs": 5,
-      "upstream_refs": 201
+      "updated_refs": 2,
+      "upstream_refs": 202
     },
     {
       "name": "artcraftx",
@@ -127,8 +127,8 @@
     {
       "name": "craft-launcher-assets",
       "upstream": "storytold/craft-launcher-assets",
-      "state": "updated",
-      "updated_refs": 2,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 3
     },
     {
@@ -226,22 +226,22 @@
     {
       "name": "font-preview-service",
       "upstream": "storytold/font-preview-service",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 5
     },
     {
       "name": "egui",
       "upstream": "storytold/egui",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 10
     },
     {
       "name": "winit",
       "upstream": "storytold/winit",
-      "state": "updated",
-      "updated_refs": 1,
+      "state": "unchanged",
+      "updated_refs": 0,
       "upstream_refs": 131
     },
     {
